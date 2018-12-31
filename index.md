@@ -6,6 +6,10 @@ layout: default
 
 The CiH lab is from the FAET (工研院) of Fudan University. Our research project is to develop intelligent hardware for emerging applications.
 
+![faet](./assets/img/faetlog.png)
+![fudan](./assets/img/xiaohui.jpg)
+
+
 ## News
 
 * _12/23/2018_, Dr. Chixiao Chen finished his post doc research and found the CiH lab.
@@ -17,6 +21,7 @@ The CiH lab is from the FAET (工研院) of Fudan University. Our research proje
 ## Teaching
 
 [AI Architecture @ 2019](./course/ai19.md)
+
 [VLSI Principle  @ 2019](./course/vlsi19.md)
 
 ## Positions
