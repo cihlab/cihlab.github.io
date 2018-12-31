@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to CiH @ FDU
 
-The CiH lab is from the [FAET (工研院)](http://faet.fudan.edu.cn/) of [Fudan University](http://www.fudan.edu.cn). It also has a strong collabration with [the State Key lab of ASIC and systems](http://me.fudan.edu.cn).
+The CiH lab is from the [FAET (工研院)](http://faet.fudan.edu.cn/) of [Fudan University](http://www.fudan.edu.cn). It also has a strong collabration with [the State Key lab of ASIC and systems](http://sme.fudan.edu.cn).
 Our research project is to develop intelligent hardware for emerging applications.
 
 ![faet](./assets/img/faetlog.png)
