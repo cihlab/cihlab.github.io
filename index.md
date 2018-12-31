@@ -12,7 +12,7 @@ We targets efficient implementation for smart sensors, intelligent robotics and 
 
 ## News
 
-* _12/23/2018_, Dr. Chixiao Chen (陈迟晓) finished his post doc research and found the CiH lab.
+* _12/23/2018_, Dr. Chixiao Chen (陈迟晓) finished his post doc in University of washington, EE department and found the CiH lab.
 
 ## Publication
 
