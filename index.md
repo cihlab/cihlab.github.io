@@ -6,8 +6,8 @@ layout: default
 
 The CiH lab is from the FAET (工研院) of Fudan University. Our research project is to develop intelligent hardware for emerging applications.
 
-![faet](./assets/img/faetlog.png)
-![fudan](./assets/img/xiaohui.jpg)
+![faet](./assets/img/faetlog.png =10x10)
+![fudan](./assets/img/xiaohui.jpg =10x10)
 
 
 ## News
