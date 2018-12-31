@@ -5,15 +5,14 @@ layout: default
 # Welcome to CiH @ FDU
 
 The CiH lab is from the [FAET (工研院)](http://faet.fudan.edu.cn/) of [Fudan University](http://www.fudan.edu.cn). It also has a strong collabration with [the State Key lab of ASIC and systems](http://sme.fudan.edu.cn).
-Our research project is to develop intelligent hardware for emerging applications.
+Our objective is to develop intelligent hardware, from chip to systems, for emerging applications.
+We targets efficient implementation for smart sensors, intelligent robotics and agile VLSI/SoC design.
 
 ![faet](./assets/img/faetlog.png)
-![fudan](./assets/img/xiaohui.jpg)
-
 
 ## News
 
-* _12/23/2018_, Dr. Chixiao Chen finished his post doc research and found the CiH lab.
+* _12/23/2018_, Dr. Chixiao Chen (陈迟晓) finished his post doc research and found the CiH lab.
 
 ## Publication
 
