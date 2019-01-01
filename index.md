@@ -12,7 +12,7 @@ We targets efficient implementation for smart sensors, intelligent robotics and 
 
 ## News
 
-* _12/23/2018_, Dr. Chixiao Chen (陈迟晓) finished his post doc in University of washington, EE department and found the CiH lab.
+* _12/23/2018_, Dr. Chixiao Chen (陈迟晓) finished his post doc in University of washington, EE department and found the CiH group.
 
 ## Publication
 
@@ -29,5 +29,6 @@ We targets efficient implementation for smart sensors, intelligent robotics and 
 We are looking for undergrad/master/Ph.D students with background of EE/CS, especially IC design, embedded, computer archiecture and alorightms. 
 
 Feel free to contact me via: cxchen@fudan.edu.cn
+[Learn More about Chixiao Chen](./cxchen.md)
 
 
