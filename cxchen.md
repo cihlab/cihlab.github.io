@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Chixiao (Sirius) Chen, Ph.D
 
 ## Education
