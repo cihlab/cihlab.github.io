@@ -4,9 +4,9 @@ layout: default
 
 # Welcome to CiH @ FDU
 
-The CiH lab is from the [FAET (工研院)](http://faet.fudan.edu.cn/) of [Fudan University](http://www.fudan.edu.cn). It also has a strong collabration with [the State Key lab of ASIC and systems](http://sme.fudan.edu.cn).
-Our objective is to develop intelligent hardware, from chip to systems, for emerging applications.
-We targets efficient implementation for smart sensors, intelligent robotics and agile VLSI/SoC design.
+The CiH lab is from [FAET (工研院)](http://faet.fudan.edu.cn/) of [Fudan University](http://www.fudan.edu.cn). It also has a strong collabration with [the State Key lab of ASIC and systems](http://sme.fudan.edu.cn).
+Our objective is to develop intelligent hardware, from chips to systems, for emerging applications.
+Currently, we target efficient circuits and system designs for smart sensors, intelligent robots and agile AI/analog deployment on VLSI.
 
 ![faet](./assets/img/faetlog.png)
 
