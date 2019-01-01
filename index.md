@@ -28,7 +28,8 @@ We targets efficient implementation for smart sensors, intelligent robotics and 
 
 We are looking for undergrad/master/Ph.D students with background of EE/CS, especially IC design, embedded, computer archiecture and alorightms. 
 
-Feel free to contact me via: cxchen@fudan.edu.cn
+Feel free to contact me via: cxchen@fudan.edu.cn  
+
 [Learn More about Chixiao Chen](./cxchen.md)
 
 
