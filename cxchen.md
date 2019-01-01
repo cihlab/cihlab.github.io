@@ -12,7 +12,7 @@ layout: default
 
 ## Experience
 
-* 2015 - 2016, Member of Funding Team, [Calterah Inc](http://www.calterah.com/).
+* 2015 - 2016, Member of Founding Team, [Calterah Inc](http://www.calterah.com/).
 * 2016 - 2018, Postdoc Research Associate, University of Washington, EE, [Silicon System Research Lab](http://labs.ece.uw.edu/ssrl/ssrl_website/Home.html)
 * 2019 - now,  Assistant Prof, Fudan University, FAET
 
