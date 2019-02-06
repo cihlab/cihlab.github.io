@@ -39,4 +39,4 @@ Score: Attendance (10%) + Presentation (20%) + Midterm Exam (40%) + Final Report
 15| Jun  5  | SoC - IV |  | /|
 16| Jun  12 | SoC - V |  | /|
 
-[Back to CiH Home](./)
+[Back to CiH Home](../)
