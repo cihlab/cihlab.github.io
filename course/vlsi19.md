@@ -7,7 +7,8 @@ layout: default
 
 ## General Info
 
-Instructor: Chixiao Chen, Ph.D
+Instructor: Chixiao Chen, 
+Email: cxchen@fudan.edu.cn
 
 Location: XXX, Fudan University (Handan Campus)
 
@@ -21,6 +22,12 @@ Score: Attendance (10%) + Presentation (20%) + Midterm Exam (30%) + Final Exam (
 
  Week | Date | Lecture Title | Reading / Slides | Homework|
  ---- |  ---- |-----|-----|----|
-1| Feb 28 | Introduction on Computer/AI Architecuture | / | / |
+1| Feb 27 | Introduction, Moore's Law | / | / |
+2| Apr  6 | MOS Transistors |  | / |
+3| Apr  13 | Inverters |  | / |
+4| Apr  20 | CMOS Logic Gates |  | / |
+5| Apr  27 | CMOS Process and Layout|  | / |
+
+
 
 [Back to CiH Home](./)
