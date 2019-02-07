@@ -30,7 +30,7 @@ Score: Attendance (10%) + Presentation (20%) + Midterm Exam (40%) + Final Report
 6| Apr   3 | Flip-Flops|  | / |
 7| Apr  10 | Static Timing Analysis|  | / |
 8| Apr  17 | Synthesis, Placement and Routing |  | /|
-9| Apr  24 | Synthesis, Placement and Routing |  | /|
+9| Apr  24 | Analog and Mixed Signal Design |  | /|
 10| May  1  | Labor Day |  | /|
 11| May  8  | Mid-term Exam|  | /|
 12| May 15  | SoC - I |  | /|
