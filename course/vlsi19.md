@@ -23,7 +23,7 @@ Score: Attendance (10%) + Presentation (20%) + Midterm Exam (40%) + Final Report
  Week | Date | Lecture Title | Reading / Slides | Homework|
  ---- |  ---- |-----|-----|----|
 1| Feb 27 | Introduction, Moore's Law | / | / |
-2| Mar   6 | MOS Transistors |  | / |
+2| Mar   6 | MOS Transistors & Analog Basics |  | / |
 3| Mar  13 | Inverters |  | / |
 4| Mar  20 | CMOS Logic Gates |  | / |
 5| Mar  27 | CMOS Process and Layout|  | / |
