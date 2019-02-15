@@ -12,6 +12,7 @@ Currently, we target efficient circuits and system designs for smart sensors, in
 
 ## News
 
+* _01/25/2019_, Chixiao co-authored "All-Digital Temperature Sensor" is accepted by CICC 2019.
 * _12/23/2018_, Dr. Chixiao Chen (陈迟晓) finished his post doc in University of washington, EE department and found the CiH group.
 
 ## Publication
