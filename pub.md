@@ -12,6 +12,7 @@ layout: default
 
 ## Analog and Mixed Signal Design
 
+1. A. Wang, C. Chen and C. R. Shi, "A 9-bit Resistor-Based All-Digital Temperature Sensor with a SAR-Quantization Embedded Differential Low-Pass Filter in 65nm CMOS Consuming 57pJ with a 2.5 $\mu$s Conversion Time", Custom Integrated Circuit Conference (CICC 2019), Austin, TX, April 2019. 
 1. A. Wang, C. Chen and C. R. Shi, "Design and Analysis of an Always-ON Input-Biased pA-Current Sub-nW mV-Threshold Hysteretic Comparator for Near-Zero Energy Sensing," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 64, no. 9, pp. 2284-2294, Sept. 2017.
 1. C. Chen, et al., "An ARMA-Model-Based NTF Estimation on Continuous-Time$\Delta\Sigma$Modulators," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 62, no. 8, pp. 721-725, Aug. 2015.
 1. C. Chen, et al., "A low-offset calibration-free comparator with a mismatch-suppressed dynamic preamplifier," 2014 IEEE International Symposium on Circuits and Systems (ISCAS), Melbourne VIC, 2014, pp. 2361-2364.
