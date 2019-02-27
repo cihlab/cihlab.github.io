@@ -23,8 +23,6 @@ Currently, we target efficient circuits and system designs for smart sensors, in
 
 [AI Architecture @ 2019](./course/ai19.md)
 
-[VLSI Principle  @ 2019](./course/vlsi19.md)
-
 ## Positions
 
 We are looking for undergrad/master/Ph.D students with background of EE/CS, especially IC design, embedded, computer archiecture and alorightms. 
