@@ -5,6 +5,8 @@ layout: default
 
 # Chixiao (Sirius) Chen, Ph.D
 
+<img src="./pf3.jpg" width = "160" height = "160" alt="profile" />
+
 ## Education
 
 * 2006 - 2010 B.Sc, Fudan University, Microelectronics
