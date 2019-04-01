@@ -20,7 +20,7 @@ layout: default
 1. B. Yu, C. Chen, et al., "A 14-bit 200-MS/s time-interleaved ADC with sample-time error detection and cancelation," IEEE Asian Solid-State Circuits Conference 2011, Jeju, 2011, pp. 349-352.
 
 
-## VLSI/SoC Automation and Agile Design
+## Application Driven Hardware/Software Codesign
 
 1. C. Chen, et al., "Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization," 2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC), San Francisco, CA, 2018, pp. 1-6.
 
