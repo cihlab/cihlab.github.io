@@ -7,8 +7,10 @@ layout: default
 The CiH lab is from [FAET (工研院)](http://faet.fudan.edu.cn/) of [Fudan University](http://www.fudan.edu.cn). It also has a strong collabration with [the State Key lab of ASIC and systems](http://sme.fudan.edu.cn).
 Our objective is to develop intelligent hardware, from chips to systems, for emerging applications.
 Currently, we target efficient circuits and system designs for smart sensors, intelligent robots and agile AI/analog deployment on VLSI.
+A brief chinese introduction can be found via [FAET faculty website](http://faet.fudan.edu.cn/8b/bb/c13533a166843/page.htm).
 
 ![faet](./assets/img/faetlog.png)
+
 
 ## News
 
@@ -22,7 +24,7 @@ Currently, we target efficient circuits and system designs for smart sensors, in
 
 ## Teaching
 
-[AI Architecture @ 2019](./course/ai19.md)
+[Computer and AI Architecture @ 2019](./course/ai19.md)
 
 ## Positions
 
