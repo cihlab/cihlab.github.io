@@ -6,12 +6,14 @@ layout: default
 
 ## Deep Learning Processor
 
+1. C. Chen, X. Liu, H. Peng, H. Ding and C. -. Richard Shi, "iFPNA: A Flexible and Efficient Deep Learning Processor in 28-nm CMOS Using a Domain-Specific Instruction Set and Reconfigurable Fabric," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 9, no. 2, pp. 346-357, June 2019.
 1. C. Chen, et al., "iFPNA: A Flexible and Efficient Deep Neural Network Accelerator with a Programmable Data Flow Engine in 28nm CMOS," ESSCIRC 2018 - IEEE 44th European Solid State Circuits Conference (ESSCIRC), Dresden, 2018, pp. 170-173.
 1. C. Chen, et al., "OCEAN: An On-Chip Incremental-Learning Enhanced Artificial Neural Network Processor With Multiple Gated-Recurrent-Unit Accelerators," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems, vol. 8, no. 3, pp. 519-530, Sept. 2018.
 1. C. Chen et al., "OCEAN: An on-chip incremental-learning enhanced processor with gated recurrent neural network accelerators," ESSCIRC 2017 - 43rd IEEE European Solid State Circuits Conference, Leuven, 2017, pp. 259-262.
 
 ## Analog and Mixed Signal Design
 
+1. A. Wang, C. Chen, C. Liu and C. R. Shi, "A 9-bit Resistor-Based Highly-Digital Temperature Sensor with a SAR-Quantization Embedded Differential Low-Pass Filter in 65nm CMOS with a 2.5μs Conversion Time," in IEEE Sensors Journal.
 1. A. Wang, C. Chen and C. R. Shi, "A 9-bit Resistor-Based All-Digital Temperature Sensor with a SAR-Quantization Embedded Differential Low-Pass Filter in 65nm CMOS Consuming 57pJ with a 2.5 $\mu$s Conversion Time", Custom Integrated Circuit Conference (CICC 2019), Austin, TX, April 2019. 
 1. A. Wang, C. Chen and C. R. Shi, "Design and Analysis of an Always-ON Input-Biased pA-Current Sub-nW mV-Threshold Hysteretic Comparator for Near-Zero Energy Sensing," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 64, no. 9, pp. 2284-2294, Sept. 2017.
 1. C. Chen, et al., "An ARMA-Model-Based NTF Estimation on Continuous-Time$\Delta\Sigma$Modulators," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 62, no. 8, pp. 721-725, Aug. 2015.
