@@ -18,7 +18,7 @@ Time: Friday Morning 9:55 - 11:35 (Begin on Nov.1, 2019, Week 8)
 
  Week | Date | Lecture Title | Reading / Slides | Homework|
  ---- |  ---- |-----|-----|----|
-1| Nov. 1 | Introduction, English for Math | /  | / |
+1| Nov. 1 | Introduction, English for Math | RM1  | / |
 2| Nov. 8 | Professional Reading - I | /  | / |
 
 ## Reading Material
