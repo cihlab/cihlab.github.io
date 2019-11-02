@@ -16,10 +16,11 @@ Time: Friday Morning 9:55 - 11:35 (Begin on Nov.1, 2019, Week 8)
 
 ## Course Calendar
 
- Week | Date | Lecture Title | Reading / Slides | Homework|
+ Week | Date | Lecture Title | Slides | Reading Material|
  ---- |  ---- |-----|-----|----|
-1| Nov. 1 | Introduction, English for Math | RM1  | / |
-2| Nov. 8 | Professional Reading - I | /  | / |
+1| Nov. 1 | Introduction, Math Vocabolary | [Lec1](./peng01.pdf) | / |
+2| Nov. 8 | Tech Reading - I |   | [RM1](https://www.nature.com/articles/nature14539.pdf) |
+3| Nov. 15 | Tech Reading - II | | [RM1](https://www.nature.com/articles/nature14539.pdf) |
 
 ## Reading Material
 
