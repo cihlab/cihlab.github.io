@@ -20,7 +20,8 @@ Time: Friday Morning 9:55 - 11:35 (Begin on Nov.1, 2019, Week 8)
  ---- |  ---- |-----|-----|----|
 1| Nov. 1 | Introduction, Math Vocabolary | [Lec1](./peng01.pdf) | / |
 2| Nov. 8 | Tech Reading - I |  [Lec2](./peng02.pdf) | [RM1](https://www.nature.com/articles/nature14539.pdf) |
-3| Nov. 15 | Tech Reading - II | | [RM1](https://www.nature.com/articles/nature14539.pdf) |
+3| Nov. 15 | Tech Reading - II | [Lec3](./peng03.pdf) | [RM1](https://www.nature.com/articles/nature14539.pdf) |
+4| Nov. 22 | Tech Reading - III |   | Quiz 1|
 
 ## Reading Material
 
