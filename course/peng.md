@@ -26,7 +26,7 @@ The instructor will not attend the class on Nov.29. To make it up, I will upload
 2| Nov. 8 | Tech Reading - I |  [Lec2](./peng02.pdf) | [RM1](https://www.nature.com/articles/nature14539.pdf) |
 3| Nov. 15 | Tech Reading - II | [Lec3](./peng03.pdf) | [RM1](https://www.nature.com/articles/nature14539.pdf) |
 4| Nov. 22 | Acedamic Writing - I | [Lec4](./peng04.pdf)  | [RM2](https://spie.org/samples/9781510619142.pdf)|
-5| Nov. 29 | Acedamic Writing - II | On-line Video  | [RM2](https://spie.org/samples/9781510619142.pdf)|
+5| Nov. 29 | Acedamic Writing - II | [Lec5](./peng05.pdf)  | [RM3： On-line Video](https://spie.org/samples/9781510619142.pdf)|
 6| Dec. 6 | Tech Listening - I |   |  |
 7| Dec. 13 |   |   |  |
 8| Dec. 20 |   |   |  |
@@ -36,3 +36,6 @@ The instructor will not attend the class on Nov.29. To make it up, I will upload
 
 1. [L. Yann, Y. Bengio, and G. Hinton, "**Deep Learning**", *Nature*, vol.521, pp.436-444, May, 2015.](https://www.nature.com/articles/nature14539.pdf)
 2. [C. A. Mack, **How to Write a Good Scientific Paper**, SPIE.](https://spie.org/samples/9781510619142.pdf)
+3. [Chixiao Chen, On-line video of lecture 5](https://spie.org/samples/9781510619142.pdf)
+
+The video is too big, I am compressing it and will upload tmr. Sorry!
