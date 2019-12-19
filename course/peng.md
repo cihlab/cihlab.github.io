@@ -28,8 +28,8 @@ The instructor will not attend the class on Nov.29. To make it up, I will upload
 4| Nov. 22 | Acedamic Writing - I | [Lec4](./peng04.pdf)  | [RM2](https://spie.org/samples/9781510619142.pdf)|
 5| Nov. 29 | Acedamic Writing - II | [Lec5](./peng05.pdf)  | [RM3： On-line Video](http://oss.imux.top/lec5v.mp4)|
 6| Dec. 6 | Tech Listening - I | [Lec6](./peng06.pdf)  |  [RM4： Video Clip for tech listening](http://oss.imux.top/listing_ng_gradient_decent.mp4) |
-7| Dec. 13 |   |   |  |
-8| Dec. 20 |   |   |  |
+7| Dec. 13 | Tech Listening - II   |  Same Slides of Lec 6 | [RM4](http://oss.imux.top/listing_ng_gradient_decent.mp4) |
+8| Dec. 20 | Presentation Skills and Reviews |   |  |
 9| Dec. 27 | Final Exam  |   |  |
 
 ## Reading/Listening Material
