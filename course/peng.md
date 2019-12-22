@@ -29,7 +29,7 @@ The instructor will not attend the class on Nov.29. To make it up, I will upload
 5| Nov. 29 | Acedamic Writing - II | [Lec5](./peng05.pdf)  | [RM3： On-line Video](http://oss.imux.top/lec5v.mp4)|
 6| Dec. 6 | Tech Listening - I | [Lec6](./peng06.pdf)  |  [RM4： Video Clip for tech listening](http://oss.imux.top/listing_ng_gradient_decent.mp4) |
 7| Dec. 13 | Tech Listening - II   |  Same Slides of Lec 6 | [RM4](http://oss.imux.top/listing_ng_gradient_decent.mp4) |
-8| Dec. 20 | Presentation Skills and Reviews |   |  |
+8| Dec. 20 | Presentation Skills and Reviews |  [Lec8](./peng08.pdf)  | [RM5](./opc.mp4) |
 9| Dec. 27 | Final Exam  |   |  |
 
 ## Reading/Listening Material
@@ -38,4 +38,5 @@ The instructor will not attend the class on Nov.29. To make it up, I will upload
 2. [C. A. Mack, **How to Write a Good Scientific Paper**, SPIE.](https://spie.org/samples/9781510619142.pdf)
 3. [Chixiao Chen, **On-line video of lecture 5**.](http://oss.imux.top/lec5v.mp4)
 4. [Andrew Ng, **Gradient Descent**, trimmed from Standford University CS229 open courses.](https://oss.imux.top/listing_ng_gradient_decent.mp4)
+5. [**How to give a great oral presentation**.](./opc.mp4)
 
