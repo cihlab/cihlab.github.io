@@ -38,5 +38,5 @@ The instructor will not attend the class on Nov.29. To make it up, I will upload
 2. [C. A. Mack, **How to Write a Good Scientific Paper**, SPIE.](https://spie.org/samples/9781510619142.pdf)
 3. [Chixiao Chen, **On-line video of lecture 5**.](http://oss.imux.top/lec5v.mp4)
 4. [Andrew Ng, **Gradient Descent**, trimmed from Standford University CS229 open courses.](https://oss.imux.top/listing_ng_gradient_decent.mp4)
-5. [**How to give a great oral presentation**.](./opc.mp4)
+5. [**How to give a great oral presentation**,Microbiology Society.](./opc.mp4)
 
