@@ -13,7 +13,7 @@ A brief chinese introduction can be found via [FAET faculty website](http://faet
 
 
 ## News
-* _02/11/2020_, We open source an unofficial source code on low-bitwidth quantization schemem for DNNs ([LSQ @ ICLR2020](https://arxiv.org/abs/1902.08153)). It achieves the same FP32 accurracy on ResNet with 3b activation/weight quantization.(Benchmark: ImageNet) It is via: https://github.com/zhutmost/lsq-net .
+* _02/11/2020_, We open source an unofficial source code ([link here](https://github.com/zhutmost/lsq-net)) on low-bitwidth quantization schemem for DNNs ([LSQ @ ICLR2020](https://arxiv.org/abs/1902.08153)). It achieves the same FP32 accurracy on ResNet with 3b activation/weight quantization. (Benchmark: ImageNet)
 * _11/12/2019_, Chixiao co-authored paper "XNORAM: A Binary CiM Architecture with Flexbile Data Flow Mappying" is accepted by AICAS 2020.
 * _08/18/2019_, Chixiao's proposal: Sensing-Computution-Memory-in-one Circuits and Systems design is approved and sponsored by NSFC (国家自然科学基金-面上项目).
 
