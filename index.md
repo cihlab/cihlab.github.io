@@ -28,7 +28,7 @@ A brief chinese introduction can be found via [FAET faculty website](http://faet
 ## Teaching
 
 
-[Computer and AI Architecture @ 2020](https://elearning.fudan.edu.cn/courses/26051)
+[AI-Core and RISC Architecture @ 2020](https://elearning.fudan.edu.cn/courses/26051)
 
 [Professional English @ 2019](./course/peng.md)
 
