@@ -26,6 +26,7 @@ layout: default
 ## Application Driven Hardware/Software Codesign
 
 1. **C. Chen**, et al., "Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization," 2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC), San Francisco, CA, 2018, pp. 1-6.
+2. S. Liu, H. Zhu, **C. Chen**, L. Zhang and C. -J. Richard Shi, "XNORAM: An Efficient Computing-in-Memory Architecture for Binary Convolutional Neural Networks with Flexible Dataflow Mapping," 2020 2nd IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), Genova, Italy, 2020, pp. 21-25.
 
 [Back to CiH Home](./)
 
