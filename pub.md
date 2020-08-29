@@ -27,6 +27,8 @@ layout: default
 
 1. **C. Chen**, et al., "Exploring the Programmability for Deep Learning Processors: from Architecture to Tensorization," 2018 55th ACM/ESDA/IEEE Design Automation Conference (DAC), San Francisco, CA, 2018, pp. 1-6.
 1. S. Liu, H. Zhu, **C. Chen**, L. Zhang and C. -J. Richard Shi, "XNORAM: An Efficient Computing-in-Memory Architecture for Binary Convolutional Neural Networks with Flexible Dataflow Mapping," 2020 2nd IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), Genova, Italy, 2020, pp. 21-25.
+1. H. Zhu, **C. Chen**, et al., "A Communication-Aware DNN Accelerator on ImageNet Using in-Memory Entry-Counting Based Algorithm-Circuit-Architecture Co-Design in 65nm CMOS," in IEEE Journal on Emerging and Selected Topics in Circuits and System.
+
 
 [Back to CiH Home](./)
 
