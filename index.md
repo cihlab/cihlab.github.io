@@ -13,11 +13,10 @@ A brief chinese introduction can be found via [FAET faculty website](http://faet
 
 
 ## News
+* _08/15/2020_, Our paper "An Algorithm-Circuits-Architecture codesign DNN accelerator" is accepted by [IEEE JETCAS](https://ieeexplore.ieee.org/document/9162116).  
 * _06/20/2020_, Chixiao recieves Shanghai Rising Star Program (上海启明星计划).
 * _02/11/2020_, We open source an unofficial source code ([link here](https://github.com/zhutmost/lsq-net)) on low-bitwidth quantization schemem for DNNs ([LSQ @ ICLR2020](https://arxiv.org/abs/1902.08153)). It achieves the same FP32 accurracy on ResNet with 3b activation/weight quantization. (Benchmark: ImageNet)
 * _08/18/2019_, Chixiao's proposal: Sensing-Computution-Memory-in-one Circuits and Systems design is approved and sponsored by NSFC (国家自然科学基金-面上项目).
-
-
 
 [More](./news.md)
 
