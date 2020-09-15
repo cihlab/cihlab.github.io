@@ -31,6 +31,8 @@ A brief chinese introduction can be found via [FAET faculty website](http://faet
 
 [Professional English @ 2019](./course/peng.md)
 
+[Analog and Digital Circuits @ 2020](./course/ckt20.md)
+
 ## Positions
 
 We are looking for undergrad/master/Ph.D students with background of EE/CS, especially IC design, embedded, computer archiecture and alorightms. 
