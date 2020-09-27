@@ -27,6 +27,6 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 1| Sept. 16 | Introduction, Digital/Analog Signal | [PDF](./cktlec01.pdf)  | / |
 2| Sept. 18 | Diodes and transistors | [PDF](./cktlec02.pdf)  | / |
 3| Sept. 23 | KVL, KCL and Small signal Model | [PDF](./cktlec03.pdf)  | / |
-4| Sept. 25 | Single Transistor Amplifiers - I| [PDF](./cktlec04.pdf)  | HW1 |
-5| Sept. 27 | Single Transistor Amplifiers - II|   |  |
-6| Sept. 30 | Current Source and Differential Amps|   | Hw 2 |
+4| Sept. 25 | Single Transistor Amplifiers - I| [PDF](./cktlec04.pdf)  | / |
+5| Sept. 27 | Single Transistor Amplifiers - II| [PDF](./cktlec05.pdf)  | [HW1](./ckthw1.pdf) |
+6| Sept. 30 | Circuit Simulation |   |  |
