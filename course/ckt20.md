@@ -28,5 +28,5 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 2| Sept. 18 | Diodes and transistors | [PDF](./cktlec02.pdf)  | / |
 3| Sept. 23 | KVL, KCL and Small signal Model | [PDF](./cktlec03.pdf)  | / |
 4| Sept. 25 | Single Transistor Amplifiers - I| [PDF](./cktlec04.pdf)  | / |
-5| Sept. 27 | Single Transistor Amplifiers - II| [PDF](./cktlec05.pdf)  | [HW1](./ckthw1.pdf) |
+5| Sept. 27 | Single Transistor Amplifiers - II| [PDF](./cktlec05.pdf)  | [HW1](./ckthw1.pdf) Due: 10.9 |
 6| Sept. 30 | Circuit Simulation |   |  |
