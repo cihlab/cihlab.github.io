@@ -18,7 +18,7 @@ Time: Wednesday & Friday Morning
 Score: Homework Assignement (15% x 4)+ Final Project (40%)
 
 ## Anouncement
-
+1. @09/28, Homework assignment 1 is released. The due date is 10.09. Happy national holidays :-)
 
 ## Course Calendar
 
