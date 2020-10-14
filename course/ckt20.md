@@ -30,8 +30,8 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 4| Sept. 25 | Single Transistor Amplifiers - I| [Amp1](./cktlec04.pdf)  | / |
 5| Sept. 27 | Single Transistor Amplifiers - II| [Amp2](./cktlec05.pdf)  | [HW1](./ckthw1.pdf) Due: 10.9 |
 6| Sept. 30 | Lab 1: Amplifier Simulation Using SPICE |   [Lab1](./cktlec06.pdf) | |
-7| Oct. 9   | Digital logic and Gates | [Dig1](./cktlec07.pdf)  |  |
-8| Oct. 14  | Boolean Logic  |   |  |
+7| Oct. 9   | Digital logic and Gates | [logic1](./cktlec07.pdf)  |  |
+8| Oct. 14  | Boolean Logic  |   [logic2](./cktlec08.pdf) |  |
 9| Oct. 16  | Karnaugh Map |   |  |
 10| Oct. 21  | Introduction on Verilog |  |  |
 11| Oct. 23 | Basics of Encoder and Decoder |   | HW2 |
