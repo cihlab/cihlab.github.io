@@ -32,7 +32,7 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 6| Sept. 30 | Lab 1: Amplifier Simulation Using SPICE |   [Lab1](./cktlec06.pdf) | |
 7| Oct. 9   | Digital logic and Gates | [logic1](./cktlec07.pdf)  |  |
 8| Oct. 14  | Boolean Logic  |   [logic2](./cktlec08.pdf) |  |
-9| Oct. 16  | Karnaugh Map |   |  |
-10| Oct. 21  | Introduction on Verilog |  |  |
-11| Oct. 23 | Basics of Encoder and Decoder |   | HW2 |
-12| Oct. 28 | Lab 2. First Verilog HDL|   |  |
+9| Oct. 16  | Lab 2: Verilog Simulation on Vivado |  [Lab2](./cktlec09.pdf)  |  |
+10| Oct. 21  | Karnaugh Maps | [logic3](./cktlec10.pdf)  |  |
+11| Oct. 23 | Introduction on Verilog, Encoder/Decoder |   | [HW2](./ckthw2.pdf) Due: 10.31 |
+12| Oct. 28 | L |   |  |
