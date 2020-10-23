@@ -19,6 +19,7 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 
 ## Anouncement
 1. @09/28, Homework assignment 1 is released. The due date is 10.09. Happy national holidays :-)
+1. @10/23, Homework assignment 2 is released. The due date is 10.30. 
 
 ## Course Calendar
 
@@ -34,5 +35,5 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 8| Oct. 14  | Boolean Logic  |   [logic2](./cktlec08.pdf) |  |
 9| Oct. 16  | Lab 2: Verilog Simulation on Vivado |  [Lab2](./cktlec09.pdf)  |  |
 10| Oct. 21  | Karnaugh Maps | [logic3](./cktlec10.pdf)  |  |
-11| Oct. 23 | Introduction on Verilog, Encoder/Decoder |   | [HW2](./ckthw2.pdf) Due: 10.31 |
+11| Oct. 23 | Introduction on Verilog, Encoder/Decoder |   | [HW2](./ckthw2.pdf) Due: 10.30 |
 12| Oct. 28 | L |   |  |
