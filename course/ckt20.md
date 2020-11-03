@@ -37,6 +37,6 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 10| Oct. 21  | Karnaugh Maps | [logic3](./cktlec10.pdf)  |  |
 11| Oct. 23 | Introduction on Verilog, Encoder/Decoder |  [vlog1](./cktlec11.pdf)  | [HW2](./ckthw2.pdf) Due: 10.30 |
 12| Oct. 28 | Introduction on Verilog and FPGA |  [vlog2](./cktlec12.pdf)  |  |
-12| Oct. 30 | Timing hazards and Sequential logic |  [Seq1](./cktlec13.pdf)  |  |
-12| Nov. 4 | Midterm Review |    |  |
-12| Nov. 6 | Midterm |   |  |
+13| Oct. 30 | Timing hazards and Sequential logic |  [Seq1](./cktlec13.pdf)  |  |
+14| Nov. 4 | Midterm Review |    |  |
+15| Nov. 6 | Midterm Exam |   |   |
