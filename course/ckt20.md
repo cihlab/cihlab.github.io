@@ -40,3 +40,6 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 13| Oct. 30 | Timing hazards and Sequential logic |  [Seq1](./cktlec13.pdf)  |  |
 14| Nov. 4 | Midterm Review |    |  |
 15| Nov. 6 | Midterm Exam |   |   |
+16| Nov. 11/13 | Lab3: Combinational Logic on FPGA |  |  |
+17| Nov. 18 | DFF Applications | [dff](./cktlec14.pdf) |  |
+18| Nov. 20 | Finite State Machine| [fsm](./cktlec15.pdf) |  |
