@@ -43,3 +43,6 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 16| Nov. 11/13 | Lab3: Combinational Logic on FPGA |  |  |
 17| Nov. 18 | DFF Applications | [dff](./cktlec14.pdf) |  |
 18| Nov. 20 | Finite State Machine| [fsm](./cktlec15.pdf) |  |
+19| Nov. 25 | Registers and Memory| [mem](./cktlec16.pdf) |  |
+20| Nov. 27 | Lab4: Sequential Logic on FPGA | | HW3(in mem slides) |
+
