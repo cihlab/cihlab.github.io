@@ -20,6 +20,8 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 ## Anouncement
 1. @09/28, Homework assignment 1 is released. The due date is 10.09. Happy national holidays :-)
 1. @10/23, Homework assignment 2 is released. The due date is 10.30. 
+1. @12/08, We will have an additional lab on Dec. 20.
+1. @12/08, The final exam will be on Dec. 30's class. 
 
 ## Course Calendar
 
@@ -45,4 +47,6 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 18| Nov. 20 | Finite State Machine| [fsm](./cktlec15.pdf) |  |
 19| Nov. 25 | Registers and Memory| [mem](./cktlec16.pdf) |  |
 20| Nov. 27 | Lab4: Sequential Logic on FPGA | | HW3 Due:12.4 (in mem slides) |
-
+21| Dec. 2 | Differential Amplifiers| [Amp3](./cktlec17.pdf) |  |
+22| Dec. 4 | Frequency Transform and Bode Plot-i | [bode1](./cktlec18.pdf)|  |
+23| Dec. 9 | Bode Plot - ii | |  |
