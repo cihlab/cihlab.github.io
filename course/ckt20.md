@@ -49,4 +49,10 @@ Score: Homework Assignement (15% x 4)+ Final Project (40%)
 20| Nov. 27 | Lab4: Sequential Logic on FPGA | | HW3 Due:12.4 (in mem slides) |
 21| Dec. 2 | Differential Amplifiers| [Amp3](./cktlec17.pdf) |  |
 22| Dec. 4 | Frequency Transform and Bode Plot-i | [bode1](./cktlec18.pdf)|  |
-23| Dec. 9 | Bode Plot - ii | |  |
+23| Dec. 9 | Bode Plot - ii and Passive Filters| [bode2](./cktlec19.pdf) |  |
+24| Dec. 11 | Operational Amplifiers | [Amp4](./cktlec20.pdf)|  |
+25| Dec. 16 | Fequency Compensation | [Amp5](./cktlec21.pdf) |  [HW4](./ckthw4.pdf) Due: 12.23 |
+26| Dec. 20 | Lab 5 Final Project|  |  |
+27| Dec. 23 | Review on Digital Circuits |  |  |
+28| Dec. 25 | Review on Analog Circuits |  |  |
+29| Dec. 30 | Final Exam
