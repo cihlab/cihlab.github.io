@@ -22,4 +22,5 @@ Time: Monday & Wednsday Morning
 
  Week | Date | Lecture Title | Reading / Slides | Homework|
  ---- |  ---- |-----|-----|----|
-1| Sept. 16 | Introduction, Digital/Analog Signal | [PDF](./cktlec01.pdf)  | / |
+1| Mar. 1 | Introduction, Digital/Analog Signal | [PDF](./cktlec01.pdf)  | / |
+1| Mar. 3 | Digit Presentation & Inverters | [dig1](./cktlec02.pdf)  | / |
