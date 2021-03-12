@@ -17,6 +17,7 @@ Time: Monday & Wednsday Morning
 
 ## Anouncement
 1. @03/2, the website is update to the 2021 course.
+2. @03/12, the first homework assignment (HW1) will be released by Mar 15 and due @ Mar 22.
 
 ## Course Calendar
 
@@ -25,4 +26,5 @@ Time: Monday & Wednsday Morning
 1| Mar. 1 | Introduction, Digital/Analog Signal | [PDF](./cktlec01.pdf)  | / |
 1| Mar. 3 | Digit Presentation & Inverters | [dig1](./cktlec02.pdf)  | / |
 2| Mar. 8 | Logic gates and Boolean Algebra | [dig2](./cktlec03.pdf)  | / |
-2| Mar. 10 | Logic Simplification | [dig3](./cktlec04.pdf)  | / |
+2| Mar. 10 | Logic Simplification | [dig3](./cktlec04.pdf) Update @ 3/12 | / |
+3| Mar. 15 | K-map Simplification | [dig4](./cktlec05.pdf)  | HW1 (due 3/22) |
