@@ -27,5 +27,13 @@ Time: Monday & Wednsday Morning
 1| Mar. 3 | Digit Presentation & Inverters | [dig1](./cktlec02.pdf)  | / |
 2| Mar. 8 | Logic gates and Boolean Algebra | [dig2](./cktlec03.pdf)  | / |
 2| Mar. 10 | Logic Simplification | [dig3](./cktlec04.pdf)  | / |
-3| Mar. 15 | K-map Simplification | [dig4](./cktlec05.pdf) Update 3/16  | [HW1](./hw1_2021.pdf) (due 3/22) |
-3| Mar. 17 | Verilog Introduction| [dig5](./cktlec06.pdf) | / |
+3| Mar. 15 | K-map Simplification | [dig4](./cktlec05.pdf)  | [HW1](./hw1_2021.pdf) (due 3/22) |
+3| Mar. 17 | Verilog Introduction (I) | [dig5](./cktlec06.pdf) | / |
+4| Mar. 22 | Lab 1: Vivado Entry Exercise | [lab1](./cktlab01.pdf)| / |
+4| Mar. 24 | Verilog (II) & FPGA |  | / |
+5| Mar. 29 | Harzard & Latch| | / |
+5| Mar. 31 | Flip Flops (I) | | / |
+6| Apr. 5  | Lab 2: FPGA Entry Exercise| | / |
+6| Apr. 7  | Flip Flops (II)| | / |
+7| Apr. 12  | Finite State Machine | | / |
+7| Apr. 14  | Register File and Memory| | / |
