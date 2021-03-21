@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to CiH @ FDU ![faet](./assets/img/faetlog.png)
 
-The CiH lab is from [FAET (工研院)](http://faet.fudan.edu.cn/) of [Fudan University](http://www.fudan.edu.cn). It also has a strong collabration with [the State Key lab of ASIC and systems](http://sme.fudan.edu.cn).
+The CiH lab is from [FAET (工研院)](http://faet.fudan.edu.cn/) of [Fudan University](http://www.fudan.edu.cn). It also has a strong collabration with [the State Key lab of ASIC and systems](http://sme.fudan.edu.cn) and [Frontier Institute of Chip and System](https://fics.fudan.edu.cn/).
 Our objective is to develop intelligent hardware, from chips to systems, for emerging applications.
 Currently, we target efficient circuits and system designs for smart sensors, intelligent robots and agile AI/analog deployment on VLSI.
 A brief chinese introduction can be found via [FAET faculty website](http://faet.fudan.edu.cn/8b/bb/c13533a166843/page.htm).
@@ -27,11 +27,11 @@ A brief chinese introduction can be found via [FAET faculty website](http://faet
 ## Teaching
 
 
-[AI-Core and RISC Architecture @ 2020](https://elearning.fudan.edu.cn/courses/26051)
+[AI-Core and RISC Architecture @ 20/21](https://elearning.fudan.edu.cn/courses/26051)
 
 [Professional English @ 2019](./course/peng.md)
 
-[Analog and Digital Circuits @ 2020](./course/ckt20.md)
+[Analog and Digital Circuits @ 2021](./course/ckt20.md)
 
 ## Positions
 
