@@ -31,7 +31,7 @@ Time: Monday & Wednsday Morning
 3| Mar. 17 | Verilog Introduction (I) | [dig5](./cktlec06.pdf) | / |
 4| Mar. 22 | Lab 1: Vivado Entry Exercise | [lab1](./cktlab01.pdf)| / |
 4| Mar. 24 | Verilog (II) & FPGA | [dig6](./cktlec07.pdf) | / |
-5| Mar. 29 | Harzard & Latch| | / |
+5| Mar. 29 | Harzard & Latch| [dig7](./cktlec08.pdf) | / |
 5| Mar. 31 | Flip Flops (I) | | / |
 6| Apr. 5  | Lab 2: FPGA Entry Exercise| | / |
 6| Apr. 7  | Flip Flops (II)| | / |
