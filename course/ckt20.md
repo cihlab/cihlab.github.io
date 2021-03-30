@@ -32,8 +32,8 @@ Time: Monday & Wednsday Morning
 4| Mar. 22 | Lab 1: Vivado Entry Exercise | [lab1](./cktlab01.pdf)| / |
 4| Mar. 24 | Verilog (II) & FPGA | [dig6](./cktlec07.pdf) | / |
 5| Mar. 29 | Harzard & Latch| [dig7](./cktlec08.pdf) | / |
-5| Mar. 31 | Flip Flops (I) | | / |
-6| Apr. 5  | Lab 2: FPGA Entry Exercise| | / |
-6| Apr. 7  | Flip Flops (II)| | / |
+5| Mar. 31 | Flip Flops (I) | [dig8](./cktlec09.pdf) | [HW2](./hw2_2021.pdf) (due 4/07) |
+6| Apr. 5  | Flip Flops (II)| | / |
+6| Apr. 7  | Lab 2: FPGA Entry Exercise| | / |
 7| Apr. 12  | Finite State Machine | | / |
 7| Apr. 14  | Register File and Memory| | / |
