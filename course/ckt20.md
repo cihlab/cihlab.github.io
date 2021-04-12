@@ -34,9 +34,9 @@ Time: Monday & Wednsday Morning
 5| Mar. 29 | Harzard & Latch| [dig7](./cktlec08.pdf) | / |
 5| Mar. 31 | Flip Flops (I) | [dig8](./cktlec09.pdf) | [HW2](./hw2_2021.pdf) (due 4/07) |
 6| Apr. 7  | Flip Flops (II)| [dig9](./cktlec10.pdf)| / |
-7| Apr. 12  | Finite State Machine | | / |
+7| Apr. 12  | Finite State Machine (I) | [dig10](./cktlec11.pdf)| / |
 7| Apr. 14  | Lab 2: FPGA Entry Exercise | | / |
-8| Apr. 19  | Register File and Memory| | HW3(due 4/26)|
+8| Apr. 19  | Finite State Machine (II)| | HW3(due 4/26)|
 8| Apr. 21  | Register File and Memory| | / |
 9| Apr. 26  | Lab 3: Digital Key on FPGA| | / |
 9| Apr. 28  | Review on Digital Circuits| | / |
