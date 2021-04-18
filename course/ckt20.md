@@ -36,9 +36,9 @@ Time: Monday & Wednsday Morning
 6| Apr. 7  | Flip Flops (II)| [dig9](./cktlec10.pdf)| / |
 7| Apr. 12  | Finite State Machine (I) | [dig10](./cktlec11.pdf)| / |
 7| Apr. 14  | Lab 2: FPGA Entry Exercise | | / |
-8| Apr. 19  | Finite State Machine (II)| | HW3(due 4/26)|
+8| Apr. 19  | Finite State Machine (II)| [dig11](./cktlec12.pdf)| [HW3](./hw3_2021.pdf)(due 4/26)|
 8| Apr. 21  | Register File and Memory| | / |
-9| Apr. 26  | Lab 3: Digital Key on FPGA| | / |
+9| Apr. 26  | Digital Ckt Power | | / |
 9| Apr. 28  | Review on Digital Circuits| | / |
 10| May 8  | Mid Term Exam| | / |
 11| May 10 | Semiconductor Device | | / |
