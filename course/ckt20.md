@@ -41,4 +41,8 @@ Time: Monday & Wednsday Morning
 9| Apr. 26  | Digital Ckt Power & App. | [dig13](./cktlec14.pdf) | / |
 9| Apr. 28  | Review on Digital Circuits| | / |
 10| May 8  | Mid Term Exam| | / |
-11| May 10 | Semiconductor Device | | / |
+11| May 10 | Semiconductor Device | [alg1](./cktlec15.pdf) | / |
+11| May 12 | Lab 3: FPGA Key Bouncing |  | / |
+
+## Supplimentary Materials
+1. Video: [How PN junction and bipolar transistor works?](./Transistors_480p.mp4)
