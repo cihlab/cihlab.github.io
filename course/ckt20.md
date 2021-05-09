@@ -45,4 +45,4 @@ Time: Monday & Wednsday Morning
 11| May 12 | Lab 3: FPGA Key Bouncing |  | / |
 
 ## Supplimentary Materials
-1. Video: [How PN junction and bipolar transistor works?](./Transistors_480p.mp4)
+1. Video: [How PN junction and bipolar transistor works?](https://www.youtube.com/watch?v=7ukDKVHnac4)
