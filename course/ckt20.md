@@ -43,6 +43,7 @@ Time: Monday & Wednsday Morning
 10| May 8  | Mid Term Exam| | / |
 11| May 10 | Semiconductor Device | [alg1](./cktlec15.pdf) | / |
 11| May 12 | Lab 3: FPGA Key Bouncing |  | / |
+12| May 17 | KCL/KVL & BJT Small Signal | [alg2](./cktlec16.pdf)| / |
 
 ## Supplimentary Materials
 1. Video: [How PN junction and bipolar transistor works?](https://cihlab.github.io/course/Transistors_480p.mp4)  
