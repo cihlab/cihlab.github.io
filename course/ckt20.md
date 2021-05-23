@@ -44,7 +44,9 @@ Time: Monday & Wednsday Morning
 11| May 10 | Semiconductor Device | [alg1](./cktlec15.pdf) | / |
 11| May 12 | Lab 3: FPGA Key Bouncing |  | / |
 12| May 17 | KCL/KVL & BJT Small Signal | [alg2](./cktlec16.pdf)| / |
-12| May 19 | MOSFET & Small Signal | [alg3](./cktlec17.pdf)| / |
+12| May 19 | BJT & MOSFET | [alg3](./cktlec17.pdf)| / |
+13| May 24 | MOSFET Small Signal | [alg4](./cktlec18.pdf)| [HW4](./hw4_2021.pdf)(due 5/31) |
+14| May 26 | Proj. (I) | |
 
 ## Supplimentary Materials
 1. Video: [How PN junction and bipolar transistor works?](https://cihlab.github.io/course/Transistors_480p.mp4)  
