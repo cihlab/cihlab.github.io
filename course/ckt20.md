@@ -46,7 +46,13 @@ Time: Monday & Wednsday Morning
 12| May 17 | KCL/KVL & BJT Small Signal | [alg2](./cktlec16.pdf)| / |
 12| May 19 | BJT & MOSFET | [alg3](./cktlec17.pdf)| / |
 13| May 24 | MOSFET Small Signal | [alg4](./cktlec18.pdf)| [HW4](./hw4_2021.pdf)(due 5/31) |
-14| May 26 | Proj. (I) | |
+13| May 26 | Course Proj. (I) | [Project](./project2021.pdf) | |
+14| May 31 | Single Transistor/Differential Amplifiers | [alg5](./cktlec19.pdf)|  |
+14| Jun  2 | Course Proj. (II) |  | |
+15| Jun 7 | Frequency & Bode Plot | [alg6](./cktlec20.pdf)|  |
+15| Jun 9 | Filters & Opamps | [alg7](./cktlec21.pdf)| [HW5](./hw5_2021.pdf)(due 6/16) |
+16| Jun 14 | Holiday |  |  |
+16| Jun 16 | Final Exams |  |  |
 
 ## Supplimentary Materials
 1. Video: [How PN junction and bipolar transistor works?](https://cihlab.github.io/course/Transistors_480p.mp4)  
