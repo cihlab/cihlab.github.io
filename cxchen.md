@@ -16,10 +16,12 @@ layout: default
 
 * 2015 - 2016, Member of Founding Team, [Calterah Inc](http://www.calterah.com/).
 * 2016 - 2018, Postdoc Research Associate, University of Washington, EE, [Silicon System Research Lab](http://labs.ece.uw.edu/ssrl/ssrl_website/Home.html)
-* 2019 - now,  Assistant Prof, Fudan University, FAET
+* 2019 - 2021,  Assistant Prof, Fudan University, FAET
+* 2021 - now, Assistant Prof, Fudan University, [Frontier Institute of Chips and Systems (FICS)](http://fics.fudan.edu.cn)
 
 ## Research Activity
 
-I serve as a reviewer for JSSC, TCAS-1, TCAS-2, JETCAS, TVLSI and DAC.
+* I serve as a reviewer for JSSC, TCAS-1, TCAS-2, JETCAS, TVLSI and DAC.
+* I am a member of IEEE/CCF/CCAI.
 
 [Back to CiH Home](./)
