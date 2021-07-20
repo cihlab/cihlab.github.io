@@ -4,6 +4,7 @@ layout: default
 
 # Complete List of CiH News
 
+* _07/01/2021_, we have two paper published on GLSVLSI 2021 (one Chiplet paper and one Computing-in-memory paper), and one paper accpeted by MWSCAS 2021 (machine-learning based ADC characterization).
 * _12/12/2020_, we have one AI accelerator paper accepted on ASPDAC 2021 (UDC) and one ADC paper on [TCAS-I](https://ieeexplore.ieee.org/document/9264739/) recently. 
 * _08/15/2020_, Our paper "An Algorithm-Circuits-Architecture codesign DNN accelerator" is accepted by [IEEE JETCAS](https://ieeexplore.ieee.org/document/9162116)。
 * _06/20/2020_, Chixiao recieves Shanghai Rising Star Program (上海启明星计划).
