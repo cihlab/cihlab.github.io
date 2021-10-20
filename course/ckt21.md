@@ -30,7 +30,7 @@ Time:  Wednsday & Friday Morning
 3| Sept. 29 | K-map Simplification | [dig4](./cktlec05.pdf)  | [HW1](./hw1_2021.pdf) (due 10/8) |
 4| Oct.  8  | Verilog Introduction (I) | [dig5](./cktlec06.pdf) | / |
 5| Oct.  13 |  Verilog (II) & FPGA | [dig6](./cktlec07.pdf) | / |
-5| Oct.  15 | Lab 1: FPGA Entry Exercise | [lab1](./cktlab01.pdf)| / |
+5| Oct.  15 | Lab 1: FPGA Entry Exercise | / | / |
 6| Oct.  20 | Harzard & Latch| [dig7](./cktlec08.pdf) | [HW2](./hw2_2021.pdf) (due 10/27) |
 6| Oct.  22 | Flip Flops (I) | [dig8](./cktlec09.pdf) | / |
 7| Oct.  27 | Flip Flops (II)| [dig9](./cktlec10.pdf)| / |
