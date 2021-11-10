@@ -37,8 +37,8 @@ Time:  Wednsday & Friday Morning
 7| Oct.  29 | Mid Term Review | | / |
 8| Nov.  3  | Mid Term Exam | | / |
 8| Nov.  5  | Finite State Machine (I) | [dig10](./cktlec11.pdf)| / |
-9| Nov.  10  | Finite State Machine (II) | [dig10](./cktlec12.pdf)| / |
-9| Nov.  12  | Memory | [dig10](./cktlec13.pdf)| HW3 |
+9| Nov.  10  | Finite State Machine (II) | [dig11](./cktlec12.pdf)| / |
+9| Nov.  12  | Memory | [dig12](./cktlec13.pdf)| HW3 |
 
 ## Supplimentary Materials
 1. Video:[李永乐老师:芯片内部是如何实现加法运算的？模拟信号和数字信号有什么区别？](https://www.bilibili.com/video/BV1Ks41157eR)
