@@ -38,9 +38,12 @@ Time:  Wednsday & Friday Morning
 8| Nov.  3  | Mid Term Exam | | / |
 8| Nov.  5  | Finite State Machine (I) | [dig10](./cktlec11.pdf)| / |
 9| Nov.  10  | Finite State Machine (II) | [dig11](./cktlec12.pdf)| / |
-9| Nov.  12  | Memory | [dig12](./cktlec13.pdf)| HW3 |
+9| Nov.  12  | Memory | [dig12](./cktlec13.pdf)| [HW3](./hw3_2021.pdf) (due 11/24) |
+10| Nov. 17 | Semiconductor Material | [alg1](./cktlec14.pdf) | / |
+10| Nov. 19 | Fundimental Circuit and Diodes  | [alg2](./cktlec16.pdf) | / |
 
 ## Supplimentary Materials
 1. Video:[李永乐老师:芯片内部是如何实现加法运算的？模拟信号和数字信号有什么区别？](https://www.bilibili.com/video/BV1Ks41157eR)
 1. Video: [How PN junction and bipolar transistor works?](https://cihlab.github.io/course/Transistors_480p.mp4)  
  If you have problems for English listening, you can find 中英文字幕 from the original [Youtube link.](https://www.youtube.com/watch?v=7ukDKVHnac4)
+1. Video: [Working of Transistors, MOSFET](https://www.youtube.com/watch?v=stM8dgcY1CA)  It's a Youtube link
