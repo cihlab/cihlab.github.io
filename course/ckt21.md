@@ -41,7 +41,15 @@ Time:  Wednsday & Friday Morning
 9| Nov.  12  | Memory | [dig12](./cktlec13.pdf)| [HW3](./hw3_2021.pdf) (due 11/24) |
 10| Nov. 17 | Semiconductor Material | [alg1](./cktlec14.pdf) | / |
 10| Nov. 19 | Fundimental Circuit and Diodes  | [alg2](./cktlec16.pdf) | / |
-
+11| Nov. 24 | Diode and BJT  | [alg3](./cktlec15.pdf) | / |
+11| Nov. 26 | Class canceled due to COVID-19  | / | / |
+12| Dec. 1 |  Small signal model of BJT | [alg4](./cktlec16.pdf) | / |
+12| Dec. 3 |  MOSFET small signal model | [alg5](./cktlec17pdf) | [HW4](./hw4_2021.pdf) (due 11/24)  |
+13| Dec. 8|  Single transistor Amplifier | [alg6](./cktlec18.pdf) | / |
+13| Dec. 10| Current Mirror and Differential Amplifier  | [alg7](./cktlec19.pdf) | / |
+14| Dec. 15/17|  Course Project | / | / |
+15| Dec. 22|  Frequency Response and Bode plot | [alg8](./cktlec20.pdf) | / |
+15| Dec. 24|  Filters and Operational Amp  | [alg9](./cktlec21.pdf) | / |
 ## Supplimentary Materials
 1. Video:[李永乐老师:芯片内部是如何实现加法运算的？模拟信号和数字信号有什么区别？](https://www.bilibili.com/video/BV1Ks41157eR)
 1. Video: [How PN junction and bipolar transistor works?](https://cihlab.github.io/course/Transistors_480p.mp4)  
