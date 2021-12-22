@@ -48,9 +48,10 @@ Time:  Wednsday & Friday Morning
 13| Dec. 8|  Single transistor Amplifier | [alg6](./cktlec18.pdf) | / |
 13| Dec. 10| Current Mirror and Differential Amplifier  | [alg7](./cktlec19.pdf) | / |
 14| Dec. 15/17|  Course Project | / | / |
-15| Dec. 22|  Frequency Response and Bode plot | [alg8](./cktlec20.pdf) | / |
+15| Dec. 22|  Frequency Response and Bode plot | [alg8](./cktlec20.pdf) | [HW5](./hw5_2021.pdf)(due 6/16) |
 15| Dec. 24|  Filters and Operational Amp  | [alg9](./cktlec21.pdf) | / |
-16|        | | | |
+16| Dec. 29|  Final Review |  / | / |
+16| Dec. 31|  Final Exam | / | / |
 
 ## Supplimentary Materials
 1. Video:[李永乐老师:芯片内部是如何实现加法运算的？模拟信号和数字信号有什么区别？](https://www.bilibili.com/video/BV1Ks41157eR)
