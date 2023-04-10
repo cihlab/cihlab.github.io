@@ -13,9 +13,11 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 
 
 ## News
-* _02/13/2021_, Our paper "Computing-on-memory-boundary KWS with Joint MFCC-CNN ternary quantization" is accepted by ISCAS 2022.
-* _10/20/2021_, Our paper "Computing-on-memory-boundary+Multi-chiplet-module" is accepted by ISSCC 2022 !!!
-* _07/01/2021_, we have two paper published on GLSVLSI 2021 (one Chiplet paper and one Computing-in-memory paper), and one paper accpeted by MWSCAS 2021 (machine-learning based ADC characterization).
+* _02/24/2023_, Our paper "Near/In-Memory Tile Processing Unit for 3D Point Cloud Neural Network" is accepted by DAC 2023.
+* _10/22/2022_, Our paper "Computing-in-memopry macros for unstructured sparse Transformer " is accepted by ISSCC 2023.
+* _08/16/2022_, Our paper "Time-Interleaved ADCs Using Additive-Neural-Network-Based Calibration" is accepted by TCAS-I.
+* _10/20/2021_, Our paper "Computing-on-memory-boundary+Multi-chiplet-module" is accepted by ISSCC 2022.
+
 
 
 
