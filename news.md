@@ -4,6 +4,7 @@ layout: default
 
 # Complete List of CiH News
 
+* _09/01/2023_, Chixiao is receives 国家自然科学基金委优秀青年(科学基金项目).
 * _02/24/2023_, Our paper "Near/In-Memory Tile Processing Unit for 3D Point Cloud Neural Network" is accepted by DAC 2023.
 * _02/10/2023_, Our paper "Neural Spike Sorting Processor with Sparsity-Aware Computing-In-Memory Macros" is accpeted by ISCAS 2023.
 * _10/22/2022_, Our paper "Computing-in-memopry macros for unstructured sparse Transformer" is accepted by ISSCC 2023.
