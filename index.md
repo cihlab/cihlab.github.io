@@ -11,7 +11,7 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 
 
 ## News
-* _09/01/2023_, Dr Chixiao Chen is funded/awarded by/as 国家自然科学基金委优秀青年(科学基金项目).
+* _09/01/2023_, Dr Chixiao Chen is receives 国家自然科学基金委优秀青年(科学基金项目).
 * _02/24/2023_, Our paper "Near/In-Memory Tile Processing Unit for 3D Point Cloud Neural Network" is accepted by DAC 2023.
 * _10/22/2022_, Our paper "Computing-in-memopry macros for unstructured sparse Transformer " is accepted by ISSCC 2023.
 * _08/16/2022_, Our paper "Time-Interleaved ADCs Using Additive-Neural-Network-Based Calibration" is accepted by TCAS-I.
