@@ -25,14 +25,12 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 
 [Selected Publication List](./pub.md)
 
-## Teaching
+## Teaching 
 
+[Advanced Package and Integrated Chips](./course/chiplet.md)
 
-[AI-Core and RISC Architecture @ 20/21](https://elearning.fudan.edu.cn/courses/26051)
+[More courses in history](./course/teaching_history.md)
 
-[Professional English @ 2019](./course/peng.md)
-
-[Analog and Digital Circuits @ 2021](./course/ckt21.md)
 
 ## Positions
 
