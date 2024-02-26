@@ -24,6 +24,6 @@ layout: default
 
 * I serve as a reviewer for JSSC, TCAS-1, TCAS-2, JETCAS, TVLSI and DAC, and rewarded as a Top Reviewer from IEEE SSCS in 2023.
 * I am a member of IEEE/CCF/CCAI.
-* I was a TPC member of A-SSCC 2023, APCCAS 2022, and a TPC-co-chair of ICAC 2023.
+* I was a TPC member of A-SSCC 2023/2024, APCCAS 2022, and a TPC-co-chair/Student Poster Chair of ICAC 2023/2024.
 
 [Back to CiH Home](./)
