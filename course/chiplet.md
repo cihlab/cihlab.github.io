@@ -22,8 +22,14 @@ Time: Monday Night 18:30 - 21:05 (Begin on March 26, 2023)
 
  Week | Date | Lecture Title | Slides | Material|
  ---- |  ---- |-----|-----|----|
-1| March. 26 | Introduction | [Lec1](./chiplet01.pdf) | / |
+1| Feb. 26 | Introduction | [Lec1](./chiplet01.pdf) | / |
+2| March. 4 | RDL, fanout and Silicon Bridge | Lec2 | / |
+3| March. 11 | TSV and Hybrid Bonding | Lec3 | / |
+4| March. 18 | Signal and Power Integrity | Lec4 | Homework1 |
 
-## Reading/Listening Material
+
+## Reference Material
 
 1. John H. Lau, [Chiplet Design and Heterogeneous Integration Packaging](https://link.springer.com/book/10.1007/978-981-19-9917-8) -- For Fudan Students, you can download the Springer book via institutional access.
+2. The World of Advanced Packaging, [YouTube Video](https://youtu.be/-egYoxajTz0?si=zYukszzz4EPon9Cf).
+3. ECEN720 from TAMU, [High speed wireline links circuit design](https://people.engr.tamu.edu/spalermo/ecen720.html)
