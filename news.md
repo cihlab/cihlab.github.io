@@ -4,6 +4,8 @@ layout: default
 
 # Complete List of CiH News
 
+* _02/18/2024_, Our paper "CAM for 3D Point Search" is accpeted by DAC 2024.
+* _12/12/2023_, Our paper "Hybrid Analog RRAM and Digital SRAM accelerator for Transformer" is accepted by TVLSI.
 * _09/01/2023_, Chixiao is receives 国家自然科学基金委优秀青年(科学基金项目).
 * _02/24/2023_, Our paper "Near/In-Memory Tile Processing Unit for 3D Point Cloud Neural Network" is accepted by DAC 2023.
 * _02/10/2023_, Our paper "Neural Spike Sorting Processor with Sparsity-Aware Computing-In-Memory Macros" is accpeted by ISCAS 2023.
