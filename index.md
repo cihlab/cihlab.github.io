@@ -11,12 +11,12 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 
 
 ## News
+* _03/20/2024_, Our paper "Trident-CIM: A LUT-Based Compute-in-Memory Macro" was first accpeted by ISCAS 2024 and then invited and accepted by TCAS-II.
 * _02/18/2024_, Our paper "CAM for 3D Point Search" is accpeted by DAC 2024.
 * _12/12/2023_, Our paper "Hybrid Analog RRAM and Digital SRAM accelerator for Transformer" is accepted by TVLSI.
 * _09/01/2023_, Dr Chixiao Chen is a receipent of 国家自然科学基金委优秀青年(科学基金项目).
 * _02/24/2023_, Our paper "Near/In-Memory Tile Processing Unit for 3D Point Cloud Neural Network" is accepted by DAC 2023.
 * _10/22/2022_, Our paper "Computing-in-memopry macros for unstructured sparse Transformer " is accepted by ISSCC 2023.
-* _08/16/2022_, Our paper "Time-Interleaved ADCs Using Additive-Neural-Network-Based Calibration" is accepted by TCAS-I.
 
 
 [More](./news.md)
