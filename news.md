@@ -4,6 +4,7 @@ layout: default
 
 # Complete List of CiH News
 
+* _03/20/2024_, Our paper "Trident-CIM: A LUT-Based Compute-in-Memory Macro" was first accpeted by ISCAS 2024 and then invited and accepted by TCAS-II.
 * _02/18/2024_, Our paper "CAM for 3D Point Search" is accpeted by DAC 2024.
 * _12/12/2023_, Our paper "Hybrid Analog RRAM and Digital SRAM accelerator for Transformer" is accepted by TVLSI.
 * _09/01/2023_, Chixiao is receives 国家自然科学基金委优秀青年(科学基金项目).
