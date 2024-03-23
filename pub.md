@@ -12,6 +12,7 @@ layout: default
 
 ## In-memory Computing Macros and Chips
 
+1. H. Zhu, ..., and **C. Chen**, "Trident-CIM: A LUT-Based Compute-in-Memory Macro With Trident Read Bit-Line and Partial Product Pruning," in IEEE TCAS-II.(Early Access) 
 1. S. Liu, ..., **C. Chen**, "HARDSEA: Hybrid Analog-ReRAM Clustering and Digital-SRAM In-Memory Computing Accelerator for Dynamic Sparse Self-Attention in Transformer," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 32, no. 2, pp. 269-282, Feb. 2024. (**Corresponding Author**)
 2.  S. Liu,  ..., **C. Chen**, Q. Liu, M. Liu, "A 28nm 53.8TOPS/W 8b Sparse Transformer Accelerator with In-Memory Butterfly Zero Skipper for Unstructured-Pruned NN and CIM-Based Local-Attention-Reusable Engine," ISSCC 2023. (**Corresponding Author**)
 3. H. Zhu, ..., **C. Chen**, ..., M. Liu, “COMB-MCM: Computing-on-Memory-Boundary NN Processor with Bipolar Bitwise Sparsity Optimization for Scalable Multi-Chiplet- Module Edge Machine Learning," ISSCC 2022. (**Corresponding Author**)
