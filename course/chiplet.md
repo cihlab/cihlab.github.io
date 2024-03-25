@@ -17,7 +17,9 @@ Time: Monday Night 18:30 - 21:05 (Begin on March 26, 2023)
 
 ## Announcement
 
+1. Homework 1 is released and will be collected by April. 1st, 2024.
 1. March. 10: The class on March 11 will be cancelled because Chixiao is sick and getting cold. I apologize for any inconvenience this may cause.
+
 
 
 ## Course Calendar
@@ -27,7 +29,7 @@ Time: Monday Night 18:30 - 21:05 (Begin on March 26, 2023)
 1| Feb. 26 | Introduction | [Lec1](./chiplet01.pdf) | / |
 2| March. 4 | RDL, fanout and Silicon Bridge | [Lec2](./chiplet02.pdf) | / |
 3| March. 11 | **Cancelled** | / | / |
-4| March. 18 | TSV and Hybrid Bonding | [Lec3](./chiplet03.pdf) | Homework1 |
+4| March. 18 | TSV and Hybrid Bonding | [Lec3](./chiplet03.pdf) | [Homework1](./chiplet_hmwk_01_2024.pdf) |
 
 
 ## Reference Material
