@@ -17,6 +17,7 @@ Time: Monday Night 18:30 - 21:05 (Begin on March 26, 2023)
 
 ## Announcement
 
+1. Homework 2 is released and will be collected by April. 29th, 2024.
 1. Homework 1 is released and will be collected by April. 1st, 2024.
 1. March. 10: The class on March 11 will be cancelled because Chixiao is sick and getting cold. I apologize for any inconvenience this may cause.
 
