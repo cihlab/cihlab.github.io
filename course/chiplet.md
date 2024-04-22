@@ -30,7 +30,7 @@ Time: Monday Night 18:30 - 21:05 (Begin on March 26, 2023)
 2| March. 4 | RDL, fanout and Silicon Bridge | [Lec2](./chiplet02.pdf) | / |
 3| March. 11 | **Cancelled** | / | / |
 4| March. 18 | TSV and Hybrid Bonding | [Lec3](./chiplet03.pdf) | [Homework1](./chiplet_hmwk_01_2024.pdf) |
-5-8| March.25 Apr. 1/8/15 | High-Speed Link Circuits and Systems for Chiplet | [Lec4-5](./chiplet-04-05.pdf) [Lec6-7](./chiplet-06-07.pdf)| / |
+5-8| March.25 Apr. 1/8/15 | High-Speed Link Circuits and Systems for Chiplet | [Lec4-5](./chiplet-04-05.pdf) [Lec6-7](./chiplet-06-07.pdf)| [Homework2](./chiplet_hmwk_02_2024.pdf) |
 
 
 ## Reference Material
