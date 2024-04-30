@@ -17,7 +17,8 @@ Time: Monday Night 18:30 - 21:05 (Begin on March 26, 2023)
 
 ## Announcement
 
-1. Homework 2 is released and will be collected by April. 29th, 2024.
+1. Course (final project) is released, please check from [Lec8](./chiplet08.pdf), please inform Chixiao of your choice by May 6th. Here is [paper selection pool](https://365.kdocs.cn/l/cpbY4B34cUnj) for students choose presentation.
+1.  Homework 2 is released and will be collected by April. 29th, 2024.
 1. Homework 1 is released and will be collected by April. 1st, 2024.
 1. March. 10: The class on March 11 will be cancelled because Chixiao is sick and getting cold. I apologize for any inconvenience this may cause.
 
@@ -32,6 +33,7 @@ Time: Monday Night 18:30 - 21:05 (Begin on March 26, 2023)
 3| March. 11 | **Cancelled** | / | / |
 4| March. 18 | TSV and Hybrid Bonding | [Lec3](./chiplet03.pdf) | [Homework1](./chiplet_hmwk_01_2024.pdf) |
 5-8| March.25 Apr. 1/8/15 | High-Speed Link Circuits and Systems for Chiplet | [Lec4-5](./chiplet-04-05.pdf) [Lec6-7](./chiplet-06-07.pdf)| [Homework2](./chiplet_hmwk_02_2024.pdf) |
+9| April. 29 | SoC & Chiplet Interconnect | [Lec8](./chiplet08.pdf) | / |
 
 
 ## Reference Material
