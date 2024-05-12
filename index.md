@@ -1,4 +1,4 @@
----
+![image](https://github.com/cihlab/cihlab.github.io/assets/32351639/dce863f2-d542-4f1c-aadf-373c0e2c3807)---
 layout: default
 ---
 
@@ -27,7 +27,7 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 
 ## Teaching 
 
-[Advanced Package and Integrated Chips](./course/chiplet.md)
+[Advanced Package and Integrated Chips @ 2024 Spring](./course/chiplet.md)
 
 [More courses in history](./course/teaching_history.md)
 
@@ -36,6 +36,15 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 Faculty Member: [Chixiao Chen](./cxchen.md) (email:cxchen@fudan.edu.cn )
 
 Post Doc: [Haozhe Zhu](https://zhutmost.com/about/)
+
+## On-going Research Projects
+
+1. Mengdie（梦蝶）: <ins>M</ins>ultiple in-M<ins>e</ins>mory Computi<ins>ng</ins> <ins>Die</ins> with 3D Integration
+1. Tianxi（天溪）: <ins>T</ins>ransformer <ins>I</ins>n-memory <ins>A</ins>ccelerator with various <ins>E</ins>xtract<ins>i</ins>ng Array
+1. Hairuo（海若）:<ins>H</ins>ybrid in-xR<ins>A</ins>M F<ins>i</ins>ne Tuning Accele<ins>r</ins>ator with End<ins>u</ins>rance <ins>O</ins>ptimization
+
+and so forth. 
+Chixiao would like to name our taped-out projects from Zhuangzi 庄子/南华经.
 
 ## Positions
 
