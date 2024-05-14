@@ -1,4 +1,3 @@
-![image](https://github.com/cihlab/cihlab.github.io/assets/32351639/dce863f2-d542-4f1c-aadf-373c0e2c3807)---
 layout: default
 ---
 
@@ -11,12 +10,13 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 
 
 ## News
+* _14/05/2024_, Our paper “SLAM-CIM: SLAM Backent Processor wiht Linear Solving FP-CIM Macros” is accepted by IEEE JSSC. 
 * _03/20/2024_, Our paper "Trident-CIM: A LUT-Based Compute-in-Memory Macro" was first accpeted by ISCAS 2024 and then invited and accepted by TCAS-II.
 * _02/18/2024_, Our paper "CAM for 3D Point Search" is accpeted by DAC 2024.
 * _12/12/2023_, Our paper "Hybrid Analog RRAM and Digital SRAM accelerator for Transformer" is accepted by TVLSI.
 * _09/01/2023_, Dr Chixiao Chen is a receipent of 国家自然科学基金委优秀青年(科学基金项目).
 * _02/24/2023_, Our paper "Near/In-Memory Tile Processing Unit for 3D Point Cloud Neural Network" is accepted by DAC 2023.
-* _10/22/2022_, Our paper "Computing-in-memopry macros for unstructured sparse Transformer " is accepted by ISSCC 2023.
+
 
 
 [More](./news.md)
@@ -37,14 +37,6 @@ Faculty Member: [Chixiao Chen](./cxchen.md) (email:cxchen@fudan.edu.cn )
 
 Post Doc: [Haozhe Zhu](https://zhutmost.com/about/)
 
-## On-going Research Projects
-
-1. Mengdie（梦蝶）: <ins>M</ins>ultiple in-M<ins>e</ins>mory Computi<ins>ng</ins> <ins>Die</ins> with 3D Integration
-1. Tianxi（天溪）: <ins>T</ins>ransformer <ins>I</ins>n-memory <ins>A</ins>ccelerator with various <ins>E</ins>xtract<ins>i</ins>ng Array
-1. Hairuo（海若）:<ins>H</ins>ybrid in-xR<ins>A</ins>M F<ins>i</ins>ne Tuning Accele<ins>r</ins>ator with End<ins>u</ins>rance <ins>O</ins>ptimization
-
-and so forth. 
-Chixiao would like to name our taped-out projects from Zhuangzi 庄子/南华经.
 
 ## Positions
 
