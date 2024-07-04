@@ -11,12 +11,12 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 
 
 ## News
+* _29/06/2024_, Our paper “FPIA:Field- Programmable Interconnect Fabric on Reusable Active Interposer” is accepted by IEEE TCAS-I. 
 * _14/05/2024_, Our paper “SLAM-CIM: SLAM Backent Processor wiht Linear Solving FP-CIM Macros” is accepted by IEEE JSSC. 
 * _03/20/2024_, Our paper "Trident-CIM: A LUT-Based Compute-in-Memory Macro" was first accpeted by ISCAS 2024 and then invited and accepted by TCAS-II.
 * _02/18/2024_, Our paper "CAM for 3D Point Search" is accpeted by DAC 2024.
 * _12/12/2023_, Our paper "Hybrid Analog RRAM and Digital SRAM accelerator for Transformer" is accepted by TVLSI.
 * _09/01/2023_, Dr Chixiao Chen is a receipent of 国家自然科学基金委优秀青年(科学基金项目).
-* _02/24/2023_, Our paper "Near/In-Memory Tile Processing Unit for 3D Point Cloud Neural Network" is accepted by DAC 2023.
 
 
 
@@ -42,8 +42,8 @@ Post Doc: [Haozhe Zhu](https://zhutmost.com/about/)
 ## Positions
 
 We are looking for undergrad/master/Ph.D students with background of EE/CS, especially IC design, embedded, computer archiecture and alorightms. 
-However, I cannot offer more than 3 Ph.Ds per year, which makes it a hard decision. So If you want to apply for a Ph.D position, it is desired to answer the question below:
-"Are you willing to spend more time on tough but excitng projects, in the cost of holidays and more years?"
+However, I cannot offer more than 1-2 Ph.Ds per year, which makes it a hard decision. 
+As a result, since 2025, I will organize a pre-interview test instead a CV review. Please make sure you are OK with the precedure.
 
 
 
