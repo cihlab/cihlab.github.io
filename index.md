@@ -11,12 +11,12 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 
 
 ## News
+* _13/10/2024_, Our paper "Shinsai: a 586mm2 Active TSV-Interposer" is accepted by ISSCC 2025.
+* _18/07/2024_, Our paper "GauSPU: 3D Gaussian Splatting Processor for Real-Time SLAM  Systems" is accepted by MICRO-57.
+* _01/07/2024_, Dr. Liyu Lin joined CiHlab as a post doc. Welcome him!
 * _29/06/2024_, Our paper “FPIA:Field- Programmable Interconnect Fabric on Reusable Active Interposer” is accepted by IEEE TCAS-I. 
 * _14/05/2024_, Our paper “SLAM-CIM: SLAM Backent Processor wiht Linear Solving FP-CIM Macros” is accepted by IEEE JSSC. 
 * _03/20/2024_, Our paper "Trident-CIM: A LUT-Based Compute-in-Memory Macro" was first accpeted by ISCAS 2024 and then invited and accepted by TCAS-II.
-* _02/18/2024_, Our paper "CAM for 3D Point Search" is accpeted by DAC 2024.
-* _12/12/2023_, Our paper "Hybrid Analog RRAM and Digital SRAM accelerator for Transformer" is accepted by TVLSI.
-* _09/01/2023_, Dr Chixiao Chen is a receipent of 国家自然科学基金委优秀青年(科学基金项目).
 
 
 
@@ -36,7 +36,7 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 
 Faculty Member: [Chixiao Chen](./cxchen.md) (email:cxchen@fudan.edu.cn )
 
-Post Doc: [Haozhe Zhu](https://zhutmost.com/about/)
+Post Doc: [Haozhe Zhu](https://zhutmost.com/about/)  Liyu Lin
 
 
 ## Positions
