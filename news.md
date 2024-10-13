@@ -4,6 +4,9 @@ layout: default
 
 # Complete List of CiH News
 
+* _13/10/2024_, Our paper "Shinsai: a 586mm2 Active TSV-Interposer" is accepted by ISSCC 2025.
+* _18/07/2024_, Our paper "GauSPU: 3D Gaussian Splatting Processor for Real-Time SLAM  Systems" is accepted by MICRO-57.
+* _01/07/2024_, Dr. Liyu Lin joined CiHlab as a post doc. Welcome him!
 * _29/06/2024_, Our paper “FPIA:Field- Programmable Interconnect Fabric on Reusable Active Interposer” is accepted by IEEE TCAS-I. 
 * _14/05/2024_, Our paper “SLAM-CIM: SLAM Backent Processor wiht Linear Solving FP-CIM Macros” is accepted by IEEE JSSC. 
 * _03/20/2024_, Our paper "Trident-CIM: A LUT-Based Compute-in-Memory Macro" was first accpeted by ISCAS 2024 and then invited and accepted by TCAS-II.
