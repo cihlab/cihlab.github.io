@@ -28,7 +28,9 @@ A brief chinese introduction can be found via [FICS faculty website](https://fic
 
 ## Teaching 
 
-[Advanced Package and Integrated Chips @ 2024 Spring](./course/chiplet.md)
+[Advanced Package and Integrated Chips @ 2025 Spring](./course/chiplet25.md)
+
+[Intelligent Computing Chips @ 2025 Spring](https://elearning.fudan.edu.cn/courses/88552) 
 
 [More courses in history](./course/teaching_history.md)
 
