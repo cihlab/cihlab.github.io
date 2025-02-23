@@ -10,3 +10,5 @@ layout: default
 [Professional English @ 2019](./course/peng.md)
 
 [Analog and Digital Circuits @ 2021](./course/ckt21.md)
+
+[Advanced Packaging and Integrated Chips @ 2024 Spring](./course/chiplet.md)
