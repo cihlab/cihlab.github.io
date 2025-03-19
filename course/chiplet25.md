@@ -27,7 +27,7 @@ Time: Monday Night 18:30 - 21:05 (Begin on March 26, 2023)
 2| Feb. 24 | 2.5D Integration | [Lec2](./chiplet02_2025.pdf) | / |
 3| March. 3 | 3D Integration | [Lec3](./chiplet03_2025.pdf) | / |
 4| March. 10 | Basics of D2D PHY |  | Instructed By Wenning Jiang|
-5| March. 17 | Silicon Bridge | [Lec4](./chiplet03_2025.pdf) |  [Homework1](./chiplet_hmwk_01_2025.pdf) |
+5| March. 17 | Silicon Bridge | [Lec4](./chiplet04_2025.pdf) | [Homework1](./chiplet_hmwk_01_2025.pdf) |
 6| March. 24 | D2D PHY (Cont'd) | | / |
 
 
