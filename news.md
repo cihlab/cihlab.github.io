@@ -4,6 +4,8 @@ layout: default
 
 # Complete List of CiH News
 
+* _02/16/2024_, Four paper: "McPAL: 3.5D Chiplet for LLM", "DRAFT: Transformer Fine Tuning", "PIMoE: 2.5D Chiplet for MoE", "Hydra:3D Chiplet for MoE" are accepted by DAC 2025. 
+* _11/03/2024_, Our paper "EIGEN: Efficient 3DIC Interconnect with Network-on-Active Interposer" is accepted by HPCA 2025. 
 * _13/10/2024_, Our paper "Shinsai: a 586mm2 Active TSV-Interposer" is accepted by ISSCC 2025.
 * _18/07/2024_, Our paper "GauSPU: 3D Gaussian Splatting Processor for Real-Time SLAM  Systems" is accepted by MICRO-57.
 * _01/07/2024_, Dr. Liyu Lin joined CiHlab as a post doc. Welcome him!
