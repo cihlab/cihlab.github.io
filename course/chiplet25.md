@@ -16,8 +16,11 @@ Location: JA202, Fudan University (Jiangwan Campus)
 Time: Monday Night 18:30 - 21:05 (Begin on March 26, 2023)
 
 ## Announcement
+1. The final project assignment will be annouced on Apr. 21.
+1. We will **NOT** have class on Apr. 27. 
+1. Homework assignment 2 is released. It will be due on 05/02/2025.
 1. In this semaster, we will have two class skipped due to holidays: May 5th (劳动节节), and June 2nd （端午节）.
-2. Homework assignment 1 is released. It will be due on 03/30/2025.
+1. Homework assignment 1 is released. It will be due on 03/30/2025.
 
 ## Course Calendar
 
@@ -28,8 +31,11 @@ Time: Monday Night 18:30 - 21:05 (Begin on March 26, 2023)
 3| March. 3 | 3D Integration | [Lec3](./chiplet03_2025.pdf) | / |
 4| March. 10 | Basics of D2D PHY |  | Instructed By Wenning Jiang|
 5| March. 17 | Silicon Bridge | [Lec4](./chiplet04_2025.pdf) | [Homework1](./chiplet_hmwk_01_2025.pdf) |
-6| March. 24 | D2D PHY (Cont'd) | | / |
-
+6/7 | March. 24/31 | D2D PHY (Cont'd) |[Lec-D2D-A](./chiplet-04-05.pdf) | / |
+8 | Apr. 7 | D2D PHY (Cont'd) |[Lec-D2D-B](./chiplet-06-07.pdf) | / |
+9 | Apr. 14 | SoC & Chiplet Interconnect | [Lec8](./chiplet08_2025.pdf) | [Homework2](./chiplet_hmwk_02_2025.pdf) |
+10 | Apr. 21 | Interconnect & Partition |  | / |
+11 | Apr. 28 | Cost Drivien Partition |  | / |
 
 ## Reference Material
 
