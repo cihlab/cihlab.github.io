@@ -2,7 +2,10 @@
 layout: default
 ---
 
-# Publication
+# Publication 
+## The page is _OBSOLETE_ now. Since 2025, Prof. Chen and Zhu will update their publication in their own website. 
+
+Please check [Chixiao Chen](./cxchen.md) and [Haozhe Zhu](https://zhutmost.com/publication). 
 
 ## Chiplet Technology and Systems of Integrated Chips
 1. Y. Yang, Y. Wang, T. Yi, **C. Chen**, Q Liu, "A 6.4-Gbps 0.41-pJ/b fully-digital die-to-die interconnect PHY for silicon interposer based 2.5D integration", Integration VLSI, Volume 96, 2024.
