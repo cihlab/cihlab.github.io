@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Chixiao (Sirius) Chen, Ph.D
+# Chixiao Chen 陈迟晓
 
 <img src="./pf3.jpg" width = "160" height = "160" alt="profile" />
 
