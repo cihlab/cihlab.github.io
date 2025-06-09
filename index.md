@@ -8,7 +8,7 @@ The CiH lab is from [College of Integrated Circuits and Nano-Micro Electronicsï¼
 Our objective is to develop intelligent hardware, from chips to systems, for emerging applications.
 Currently, we target efficient in-memory and processing circuits and system designs for large scale intelligent computing devices.
 
-<img src="./group_photo-2025.jpg" width = "666" height = "370" alt="profile" />
+<img src="./group_photo-2025.jpg" width = "555" height = "313" alt="profile" />
 
 
 ## News
