@@ -4,6 +4,9 @@ layout: default
 
 # Complete List of CiH News
 
+* _10/02/2025_, Our ISSCC 2025 SHINSAI paper gets invited and accepted by JSSC 2026 Special Issue.
+* _09/01/2025_, Our paper Real-time Robot engine for Embodied Intelligience get accepted by A-SSCC 2025. 
+* _07/01/2025_, Our paper "GauPRE: A Pattern-based Rendering Engine for 3DGS", and get accepted by ICCAD 2026 and recognized by the Best Paper Award Candidate.
 * _06/01/2025_, Our paper "Outlier-CiM" and "RRAM/SRAM CIM for fine-tuning" are accepted by IEEE JSSC.
 * _05/20/2025_, Prof. [Haozhe Zhu](https://fics.fudan.edu.cn/e1/98/c22620a450968/page.htm)  and Dr. Shiwei Liu rejoined CiHLab as an associate Professor / research associate respectively.
 * _05/04/2025_, We are awared as “复旦大学 五四青年集体”. May the force be with you! 
