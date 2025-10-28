@@ -12,13 +12,14 @@ Currently, we target efficient in-memory and processing circuits and system desi
 
 
 ## News
+* _10/02/2025_, Our ISSCC 2025 SHINSAI paper gets invited and accepted by JSSC 2026 Special Issue.
+* _09/01/2025_, Our paper Real-time Robot engine for Embodied Intelligience get accepted by A-SSCC 2025. 
+* _07/01/2025_, Our paper "GauPRE: A Pattern-based Rendering Engine for 3DGS", and get accepted by ICCAD 2026 and recognized by the Best Paper Award Candidate.
 * _06/01/2025_, Our paper "Outlier-CiM" and "RRAM/SRAM CIM for fine-tuning" are accepted by IEEE JSSC.
 * _05/20/2025_, Prof. [Haozhe Zhu](https://fics.fudan.edu.cn/e1/98/c22620a450968/page.htm)  and Dr. Shiwei Liu rejoined CiHLab as an assistant Professor and research associate respectively.
 * _05/04/2025_, CiHLab are award to “复旦大学 青年五四奖章（集体）”. May the force be with you! 
 * _02/16/2025_, Four paper: "McPAL: 3.5D Chiplet for LLM", "DRAFT: Transformer Fine Tuning", "PIMoE: 2.5D Chiplet for MoE", "Hydra:3D Chiplet for MoE" are accepted by DAC 2025. 
 * _11/03/2025_, Our paper "EIGEN: Efficient 3DIC Interconnect with Network-on-Active Interposer" is accepted by HPCA 2025. 
-* _13/10/2024_, Our paper "Shinsai: a 586mm2 Active TSV-Interposer" is accepted by ISSCC 2025.
-* _18/07/2024_, Our paper "GauSPU: 3D Gaussian Splatting Processor for Real-Time SLAM  Systems" is accepted by MICRO-57.
 
 [More](./news.md)
 
