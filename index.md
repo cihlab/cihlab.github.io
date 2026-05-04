@@ -12,6 +12,8 @@ Currently, we target efficient in-memory and processing circuits and system desi
 
 
 ## News
+* _03/20/2026_, Two papers get accepted by ISCA 2026, one is 3D Cloud Point Processing, and the other is 3D Gaussian Processing, congratulations!
+* _02/10/2026_, One Neural Machine Interface (spike sorting processor) get accepted by TCAS-I, and One CIM paper get accepted by OJ-SSCS, and One Transformer SoC get accepted by JETCAS (extended by ISSCC 2023 paper).
 * _10/02/2025_, Our ISSCC 2025 SHINSAI paper gets invited and accepted by JSSC 2026 Special Issue.
 * _09/01/2025_, Our paper Real-time Robot engine for Embodied Intelligience get accepted by A-SSCC 2025. 
 * _07/01/2025_, Our paper "GauPRE: A Pattern-based Rendering Engine for 3DGS", and get accepted by ICCAD 2026 and recognized by the Best Paper Award Candidate.
@@ -39,8 +41,9 @@ Currently, we target efficient in-memory and processing circuits and system desi
 
 Faculty Member: [Chixiao Chen](./cxchen.md) (email:cxchen@fudan.edu.cn ) 
 and [Haozhe Zhu](https://fics.fudan.edu.cn/e1/98/c22620a450968/page.htm)  (email:zhuhz@fudan.edu.cn ) 
+and [Shiwei Liu](https://scholar.google.com/citations?user=example) (Tongji University) 
 
-Post Doc / Research Associate:  Liyu Lin, Shiwei Liu (affliated with Shaoxin Laboratory) 
+Post Doc / Research Associate:  Liyu Lin, Saifei Gou 
 
 
 ## Positions
