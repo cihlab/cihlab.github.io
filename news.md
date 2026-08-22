@@ -4,6 +4,10 @@ layout: default
 
 # Complete List of CiH News
 
+* _08/22/2026_, Our paper  "Theseus A Ray-Tracing Processor" is accepted by ASSCC 2026 (with highlight) , and “Delta-MoE: Efficiency CPU–GPU MoE Serving" is accepted by ICCAD 2026.
+* _07/14/2026_, Our paper "TNT: A Unified LUT-Centric Architecture for Ternary LLM Inference" is accepted by MICRO 2026. 
+* _06/29/2026_, Our paper  "A 12nm 80.6TFLOPS/W BF16 FP CIM Macro" is accepted by ESSERC 2026 (previously ESSCIRC) , and “AMBER: Thermal-Aware Edge LLM 3D DRAM-on-NPU Design" is accepted by AICAS 2026.
+* _05/30/2026_, Prof. [Shiwei Liu](https://see.tongji.edu.cn/info/1391/14706.htm) joined Tongji University as an tenure-track assistant Professor.  Congratulation!
 * _03/20/2026_, Two papers get accepted by ISCA 2026, one is 3D Cloud Point Processing, and the other is 3D Gaussian Processing, congratulations!
 * _02/10/2026_, One Neural Machine Interface (spike sorting processor) get accepted by TCAS-I, and One CIM paper get accepted by OJ-SSCS, and One Transformer SoC get accepted by JETCAS (extended by ISSCC 2023 paper).
 * _10/02/2025_, Our ISSCC 2025 SHINSAI paper gets invited and accepted by JSSC 2026 Special Issue.
